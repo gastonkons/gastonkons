@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm Gastón Konstantinides, I work at [VORTEX-IT](https://
 ### 😍 What i like to do:
 - I like challenges, learning, logical problems, helping, sharing and living!
 
-### 💡 Goals for 2022:
+### 💡 Goals for 2023:
 - Finish my first app on react native and publish it on play store
 - Learn the basics of TypeScript and NextJS
 - Become skilled in Javascript
