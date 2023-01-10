@@ -11,7 +11,7 @@ Welcome to my GitHub! I'm Gastón Konstantinides, I work at [VORTEX-IT](https://
 
 ### 💡 Goals for 2023:
 - Finish my first app on react native and publish it on play store
-- Learn the basics of TypeScript and NextJS
+- Learn the basics of NextJS
 - Become skilled in Javascript
 - Have an intermediate level of English
 - Grow as a person
