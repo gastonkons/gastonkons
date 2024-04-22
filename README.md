@@ -20,4 +20,4 @@ Welcome to my GitHub! I'm Gastón Konstantinides, I work at [VORTEX-IT](https://
 
 ### 📫 You can find me:
 - [LinkedIn](https://linkedin.com/in/gastonkons)
-- [Gmail](http://mailto:gastonkons@gmail.com?Subject=Contact%20-%20Github)
+- [Gmail](mailto:gastonkons@gmail.com?Subject=Contact%20-%20Github)
