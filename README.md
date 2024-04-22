@@ -19,5 +19,5 @@ Welcome to my GitHub! I'm Gastón Konstantinides, I work at [VORTEX-IT](https://
 - Fintechs, web3, marketing and games
 
 ### 📫 You can find me:
-- [Github](https://github.com/gastonkons)
 - [LinkedIn](https://linkedin.com/in/gastonkons)
+- [Gmail](http://mailto:gastonkons@gmail.com?Subject=Contact%20-%20Github)
